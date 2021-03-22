@@ -75,7 +75,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
         android:padding="15dp"
-        android:text="send verification code"
+        android:text="verify"
         android:textAllCaps="true"
         android:textColor="#fff"
         android:textSize="16sp"
